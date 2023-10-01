@@ -1,0 +1,19 @@
+be5vdvv6clc09yx43rfs-mysql.services.clever-cloud.com
+Database Name
+be5vdvv6clc09yx43rfs
+User
+uua2414w8a9u2few
+psw
+QHsDkMaxH7jTzCnvdIxq
+
+3306
+
+connection url
+mysql://uua2414w8a9u2few:QHsDkMaxH7jTzCnvdIxq@be5vdvv6clc09yx43rfs-mysql.services.clever-cloud.com:3306/be5vdvv6clc09yx43rfs
+
+
+con=DriverManager.getConnectio
+n("jdbc:mysql://be5vdvv6clc09yx43rfs-mysql.services.clever-cloud.com:3306/be5vdvv6clc09yx43rfs?user=uua2414w8a9u2few&password=QHsDkMaxH7jTzCnvdIxq");
+
+
+jdbc:mysql://be5vdvv6clc09yx43rfs-mysql.services.clever-cloud.com:3306/be5vdvv6clc09yx43rfs?user=uua2414w8a9u2few&password=QHsDkMaxH7jTzCnvdIxq
